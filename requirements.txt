@@ -1,0 +1,7 @@
+rdkit-pypi
+pandas~=1.5.2
+Pillow
+matplotlib
+pydot
+tensorflow~=2.11.0
+numpy~=1.23.5
